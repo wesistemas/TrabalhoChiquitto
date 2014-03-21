@@ -2,3 +2,5 @@ Acadêmicos: Cleyton Negri	RA:06008897
 	    Giovane Lucca Rocco    06009035
 	    Emerson Sangaleti	   06009184
 	    Juliano Maciel         06009110
+
+altera por emerson:  https://github.com/emersonsangaleti
